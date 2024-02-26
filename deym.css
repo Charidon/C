@@ -4,5 +4,11 @@ body {
  font-style: sanserif;
  text-align: center;
 }
-.img container
+.img container{
  " height="100";}width=100"
+}
+.video container{
+    position: relative;
+    text-align: center;
+}
+
